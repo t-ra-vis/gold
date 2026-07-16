@@ -159,6 +159,7 @@ h1 em{color:var(--gold);font-style:normal}
   object-fit:cover;
   object-position:center;
 }
+.recommend-card-top figure img{object-position:center top}
 .recommend-card small,.guide-card small{grid-column:1/-1;color:var(--gold);font:800 9px var(--sans);letter-spacing:.18em}
 .recommend-card b,.guide-card b{align-self:end;color:#eee7db;font-size:17px}
 .recommend-card p,.guide-card p{grid-column:1/-1;margin:0;color:#8f8a82;font-size:12px}
